@@ -2,6 +2,24 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+# Visual Studio build folders
+x64/
+Debug/
+Release/
+*.exe
+*.ilk
+*.idb
+*.pdb
+*.obj
+*.log
+*.recipe
+*.tlog
+*.cache
+*.db
+*.suo
+*.user
+*.vcxproj.FileListAbsolute.txt
+
 # Visual Studio
 .vs/
 *.suo
